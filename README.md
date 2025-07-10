@@ -24,6 +24,3 @@ Given that I have data on former employees, this is a standard supervised classi
 
 In this project, I explored the booming HR Analytics domain, developed a ML model that could predict which employees are more likely to quit. I explored the data, cleaned, modified, visualized and then created a random forest model to predict how likely the employee quit the job.
 
----
-
-**Done by: Amritangshu Dey**
